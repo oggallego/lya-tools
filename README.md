@@ -5,4 +5,4 @@ This repository contains 4 directories: branches:
 3. mcmc: cobaya scripts running models from nn-emulator
 4. sims: code to get ics from output N-GenIC files, plot theory versus computed particle power spectra, plot snapshot
 
-Note, code to extract LOS and compute flux power spectra not included (personal version from collaboration intermal code).
+Note, code to extract LOS, compute and post-process grids for flux power spectra calculation not included (personal version from collaboration internal code).
